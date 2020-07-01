@@ -1,2 +1,2 @@
 # turbo-giggle
-Python codes written in Dynamo
+Examples of Python codes written in Dynamo for various scripts.
